@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @el-vitoshka
 - 👀 I’m interested in... I don't know yet.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and dabbling in other programming languages.
 - 💞️ I’m looking to collaborate on small app projects.
 - 📫 How to reach me: message me here?
 - 😄 Pronouns: she/her
